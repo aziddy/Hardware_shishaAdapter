@@ -14,6 +14,9 @@ Bottom glass broke. Top part uses a special female thread that is only compatibl
 
 <img align="top" style="vertical-align:top" src="https://raw.githubusercontent.com/aziddy/Hardware_shishaAdapter/master/images/together_close.jpg" width="400"/>
 
+<br>
+<br>
+
 <img align="top" style="vertical-align:top;" src="https://raw.githubusercontent.com/aziddy/Hardware_shishaAdapter/master/images/glass_with_adapter.jpg" width="400" height="353"/>
 
 
